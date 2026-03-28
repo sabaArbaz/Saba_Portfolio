@@ -90,7 +90,10 @@ line-height:1.2;
        padding:10px 0; 
     }
     .about-col-2 p{
-        margin-top:5px;
+        margin-top:0;
+    }
+    .sub-title{
+        margin-bottom:5px;
     }
 }
 .row{
@@ -112,11 +115,13 @@ line-height:1.2;
 .about-col-2 p{
     line-height:1.4 !important;
     font-size:10px !important;
+    margin-top:0;
 }
 .sub-title{
     font-size: 60px;
     font-weight: 800;
     color: #fff;
+    margin-bottom:10px;
 }
 
 .tab-titles{
