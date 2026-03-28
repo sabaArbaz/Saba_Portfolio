@@ -73,11 +73,11 @@ nav ul li a:hover::after{
 p{
 line-height:1.5;
 font-size:16px;
+}
 @media only screen and (max-width:600px){
 p{
 font-size:14px;
 line-height:1.2;
-}
 }
 }
 /* -----------about--------------- */
