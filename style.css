@@ -63,6 +63,7 @@ nav ul li a:hover::after{
 }
 .header-text{
     margin-top: 5%;
+    margin-bottom:0;
     font-size: 30px;
 }
 .header-text h1{
@@ -85,6 +86,7 @@ line-height:1.2;
 /* -----------about--------------- */
 #about{
     padding:0;
+    padding-top:20px;
     color: #ababab;
 }
 @media only screen and (max-width:600px){
